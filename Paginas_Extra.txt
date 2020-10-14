@@ -1,0 +1,14 @@
+-> Hacer patrones par el fondo
+https://www.heropatterns.com/
+
+-> Iconos CDN
+https://cdnjs.com/libraries/font-awesome
+
+-> Imagenes aleatorias 
+https://picsum.photos/
+
+-> Imagenes Gratis
+https://www.pexels.com/
+
+-> Efecto de scroll
+https://scrollrevealjs.org/
