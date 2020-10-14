@@ -241,7 +241,7 @@ hr{
         transform: translateX(-40px);
     }
     .nav-main ul.nav-menu-right {
-        margin-right: 20px;
+        margin-right: 40px;
     }
     .nav-main ul.nav-menu li {
         padding: 20px;
@@ -273,5 +273,8 @@ hr{
     }
     .footer-links .footer-container {
         grid-template-columns: 1fr;
+    }
+    .nav-main ul.nav-menu-right {
+        margin-right: 40px;
     }
 }
